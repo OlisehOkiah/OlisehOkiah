@@ -8,8 +8,6 @@
 - Data Analysis: 😄 I’m a big fan of Excel, SQL, Tableau, and Power BI—basically anything that helps me turn numbers into narratives! I’m always hungry to learn more and stay on top of the ever-evolving data game. 🌱🔍
 -  Machine Learning: I’m diving deep into machine learning algorithms, discovering patterns that drive solutions, whether it's financial forecasting or NLP for real-world applications.
 - Creative Solutions: I enjoy pushing boundaries, experimenting with new tools, and coming up with innovative solutions for industries like healthcare, tech, and finance.
-## Skill  
-**Data Analysis And Visualization**
 ### 🛠 **Tools**
 
 **📊 Data Analysis & Visualization**  
